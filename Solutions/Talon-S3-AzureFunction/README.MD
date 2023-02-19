@@ -15,8 +15,8 @@ Talon Sentinel Data connector to ingest AWS S3 Files using Azure Function App. T
 ## Installation / Setup Guide
 
 1. Click  "Deploy To Azure" (For both Commercial & Azure GOV)  
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2FAzure-Sentinel%2Fmaster%2FSolutions%2FTalon-S3-AzureFunction%2Fazuredeploy_awss3.json)
-[![Deploy to Azure Gov](https://aka.ms/deploytoazuregovbutton)](https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2FAzure-Sentinel%2Fmaster%2FSolutions%2FTalon-S3-AzureFunction%2Fazuredeploy_awss3.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Faviatam%2FAzure-Sentinel%2Fmaster%2FSolutions%2FTalon-S3-AzureFunction%2Fazuredeploy_awss3.json)
+[![Deploy to Azure Gov](https://aka.ms/deploytoazuregovbutton)](https://portal.azure.us/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Faviatam%2FAzure-Sentinel%2Fmaster%2FSolutions%2FTalon-S3-AzureFunction%2Fazuredeploy_awss3.json)
 
 2. Select the preferred **Subscription**, **Resource Group** and **Location**  
    **Note**  
