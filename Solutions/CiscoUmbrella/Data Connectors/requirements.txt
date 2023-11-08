@@ -4,6 +4,6 @@
 
 azure-functions
 boto3==1.9.180
-requests==2.22.0
+requests==2.31.0
 python-dateutil==2.8.2
 azure-storage-file-share==12.5.0
