@@ -1,21 +1,14 @@
 {
-  "scanSettings": {
-    "configMode": "AUTO",
-    "enableLicenseViolations": true,
-    "baseBranches": []
+  "scanSettingsSAST": {
+    "enableScan": true,
+    "scanPullRequests": true,
+    "incrementalScan": true,
+    "snippetSize":10,
+    "baseBranches": ["master","integration"]
   },
-  "checkRunSettings": {
-    "vulnerableCheckRunConclusionLevel": "failure",
-    "displayMode": "diff",
-    "useMendCheckNames": true
-  },
-  "issueSettings": {
-    "minSeverityLevel": "LOW",
-    "issueType": "DEPENDENCY"
-  },
-  "remediateSettings": {
-    "workflowRules": {
-      "enabled": true
-    }
+  "checkRunSettingsSAST": {
+    "checkRunConclusionLevel": "failure",
+    "useMendCheckNames":true,
+    "severityThreshold": "high"
   }
 }
